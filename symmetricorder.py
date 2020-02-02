@@ -19,7 +19,6 @@ while True:
         gj += 2
     if len(a)%2==1:
         list3.append(a[-1])
-
     list1.reverse()
     answer.append(("SET "+ str(set)))
     if len(a)%2==0:
