@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="115d8ff9-daa4-4ba0-b877-37f8d5ad71c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cardtrick2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estimatingTheAreaOfCircle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,26 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cold.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bus.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="7" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,10 +44,12 @@
         <option value="$PROJECT_DIR$/conondrum.py" />
         <option value="$PROJECT_DIR$/cold.py" />
         <option value="$PROJECT_DIR$/bus.py" />
+        <option value="$PROJECT_DIR$/cardtrick2.py" />
+        <option value="$PROJECT_DIR$/estimatingTheAreaOfCircle.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="21" />
     <option name="y" value="120" />
     <option name="width" value="1752" />
@@ -110,7 +93,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bus">
+  <component name="RunManager" selected="Python.estimatingTheAreaOfCircle">
     <configuration name="bus" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +107,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cardtrick2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kattis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cardtrick2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="falsesecurity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="estimatingTheAreaOfCircle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,28 +190,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/falsesecurity.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sumkindofproblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kattis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sumkindofproblem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estimatingTheAreaOfCircle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.estimatingTheAreaOfCircle" />
+        <item itemvalue="Python.cardtrick2" />
         <item itemvalue="Python.bus" />
         <item itemvalue="Python.cold" />
         <item itemvalue="Python.conondrum" />
-        <item itemvalue="Python.sumkindofproblem" />
-        <item itemvalue="Python.falsesecurity" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +224,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,6 +354,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estimatingTheAreaOfCircle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cardtrick2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>
