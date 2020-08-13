@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="115d8ff9-daa4-4ba0-b877-37f8d5ad71c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/qaly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tugas_Ado_Fuzzy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/qaly.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="85">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tugas_Ado_Fuzzy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -57,6 +66,7 @@
         <option value="$PROJECT_DIR$/estimatingTheAreaOfCircle.py" />
         <option value="$PROJECT_DIR$/baconEggAndSpam.py" />
         <option value="$PROJECT_DIR$/qaly.py" />
+        <option value="$PROJECT_DIR$/Tugas_Ado_Fuzzy.py" />
       </list>
     </option>
   </component>
@@ -74,9 +84,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="Kattis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kattis" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="Kattis" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -85,7 +100,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,7 +118,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.qaly">
+  <component name="RunManager" selected="Python.Tugas_Ado_Fuzzy">
+    <configuration name="Tugas_Ado_Fuzzy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kattis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tugas_Ado_Fuzzy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="baconEggAndSpam" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Kattis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,27 +153,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baconEggAndSpam.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bus" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Kattis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tugas_Ado_Fuzzy" />
         <item itemvalue="Python.qaly" />
         <item itemvalue="Python.baconEggAndSpam" />
         <item itemvalue="Python.estimatingTheAreaOfCircle" />
         <item itemvalue="Python.cardtrick2" />
-        <item itemvalue="Python.bus" />
       </list>
     </recent_temporary>
   </component>
@@ -399,8 +413,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/qaly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tugas_Ado_Fuzzy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
         </state>
       </provider>
     </entry>
